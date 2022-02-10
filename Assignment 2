@@ -1,0 +1,8 @@
+[2/10, 5:07 PM] Bhadri Clz: n=int(input("Enter a number:"))
+if n<0 :
+      print("Given Number is NEGATIVE")
+else:
+          print("Given Number is POSITIVE")
+          output ==
+Enter a number:-6
+Given Number is NEGATIVE
